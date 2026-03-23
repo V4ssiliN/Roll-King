@@ -15,7 +15,7 @@
 * **Système de physique custom :** Charge de saut variable avec prédiction et affichage de la trajectoire parabolique en temps réel.
 * **Progression du joueur :** Système de High-Score sauvegardé (`PlayerPrefs`) permettant de débloquer différents skins animés.
 
-## ⚙️ Points techniques
+## Points techniques
 
 Si vous souhaitez explorer le code source, voici les scripts les plus représentatifs de l'architecture du jeu :
 
