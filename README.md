@@ -35,7 +35,6 @@ Si vous souhaitez explorer le code source, voici les scripts les plus représent
 
 4. **Système de skins (`SkinSelection.cs`) :**
    Dans le menu, le joueur peut choisir le skin à appliquer au personnage. Les skins se débloquent à différents paliers de score. Ce fichier gère le débloquage, la sélection et l'affichage visuel de la sélection des skins dans le menu.
-
-Note : Ce dépôt contient uniquement le code source (C#) du projet pour des raisons de droits d'auteur sur les assets visuels et sonores utilisés dans le prototype
 ---
+Note : Ce dépôt contient uniquement le code source (C#) du projet pour des raisons de droits d'auteur sur les assets visuels et sonores utilisés dans le prototype
 *Projet personnel développé par Vassili Nakov.*
