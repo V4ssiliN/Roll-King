@@ -30,7 +30,6 @@ Si vous souhaitez explorer le code source, voici les scripts les plus représent
     - Augmentation la distance entre les roues
     - Disparition progressive de la prédiction de trajectoire
 
-![rollking-clip3](https://github.com/user-attachments/assets/afd7cbed-421e-4d8a-ba3f-a0ed3cf57ca2)
 
 3. **Prédiction de trajectoire (`TrajectoryPreview.cs`) :**
    Implémentation d'un algorithme simulant la physique du moteur (prend compte dfe la gravité et de la force initiale) via une série de `Physics2D.Raycast` pour calculer et afficher l'arc de saut exact du joueur avant l'action, tout en détectant les collisions avec le décor.
@@ -38,7 +37,7 @@ Si vous souhaitez explorer le code source, voici les scripts les plus représent
 4. **Système de skins (`SkinSelection.cs`) :**
    Dans le menu, le joueur peut choisir le skin à appliquer au personnage. Les skins se débloquent à différents paliers de score. Ce fichier gère le débloquage, la sélection et l'affichage visuel de la sélection des skins dans le menu.
 
-https://github.com/user-attachments/assets/d3d40514-87ea-4ac7-9f74-b8e62c97abc3
+![rollking-clip3bis](https://github.com/user-attachments/assets/c7fb497f-df91-47b8-8ea1-3a38dd080512)
    
 ---
 Note : Ce dépôt contient uniquement le code source (C#) du projet pour des raisons de droits d'auteur sur les assets visuels et sonores utilisés dans le prototype
